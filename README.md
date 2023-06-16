@@ -30,7 +30,7 @@
 </ul>
 <h3>Getting Started</h3>
 To get started with the Anime Streaming Platform, follow the steps below:
-<li>Clone the repository: git clone https://github.com/yugesh-shilakar/AnimeStream.git</li>
+<li>Clone the repository: git clone https://github.com/yugesh-shilakar/YAnimee.git</li>
 <li>Install the necessary dependencies using NuGet package manager.</li>
 <li>Set up the database by executing the provided SQL scripts.</li>
 <li>Configure the database connection string in the appsettings.json file.</li>
