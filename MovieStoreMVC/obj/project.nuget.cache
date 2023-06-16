@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQlP+JuWqPYiH40pC6J2HLuGwz56w8Pc4ccXZsFcLZS8HGus07iTGQnIqr7yHRABxAR/QbbRjcv3rFEn4nOXGw==",
+  "dgSpecHash": "Ihs+G1ti6TK87BJo7VHyKxF6qIz7c9LkrSLLcSJjti2oG0SBEvqKFwtabE9YJGo+vF1ROIVoykksiiK2PGD2+w==",
   "success": true,
-  "projectFilePath": "D:\\DotNet\\MovieStoreMvc\\MovieStoreMvc\\MovieStoreMvc.csproj",
+  "projectFilePath": "D:\\DotNet\\New folder\\YAnimee\\MovieStoreMvc\\MovieStoreMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

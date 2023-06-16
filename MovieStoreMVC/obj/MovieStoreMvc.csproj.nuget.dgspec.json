@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\MovieStoreMvc\\MovieStoreMvc\\MovieStoreMvc.csproj": {}
+    "D:\\DotNet\\New folder\\YAnimee\\MovieStoreMvc\\MovieStoreMvc.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\MovieStoreMvc\\MovieStoreMvc\\MovieStoreMvc.csproj": {
+    "D:\\DotNet\\New folder\\YAnimee\\MovieStoreMvc\\MovieStoreMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\MovieStoreMvc\\MovieStoreMvc\\MovieStoreMvc.csproj",
+        "projectUniqueName": "D:\\DotNet\\New folder\\YAnimee\\MovieStoreMvc\\MovieStoreMvc.csproj",
         "projectName": "MovieStoreMvc",
-        "projectPath": "D:\\DotNet\\MovieStoreMvc\\MovieStoreMvc\\MovieStoreMvc.csproj",
+        "projectPath": "D:\\DotNet\\New folder\\YAnimee\\MovieStoreMvc\\MovieStoreMvc.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\MovieStoreMvc\\MovieStoreMvc\\obj\\",
+        "outputPath": "D:\\DotNet\\New folder\\YAnimee\\MovieStoreMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
