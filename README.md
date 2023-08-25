@@ -8,7 +8,7 @@
 <h3>Features</h3>
 <ul>
   <li>User Registration: Users can create an account to access the platform's features.</li>
-  <li>Authentication and Authorization: Secure user authentication and authorization mechanisms are implemented to protect user data and ensure access          control.</li>
+  <li>Authentication and Authorization: Secure user authentication and authorization mechanisms are implemented to protect user data and ensure access control.</li>
   <li>Anime Catalog: A comprehensive catalog of anime shows and movies is available for users to explore.</li>
   <li>Search and Filters: Users can search for specific anime titles and apply filters based on genres, release date, popularity, etc.</li>
   <li>Watchlist: Users can add anime shows and movies to their watchlist for easy access.</li>
